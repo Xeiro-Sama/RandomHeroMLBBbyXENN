@@ -1,7 +1,7 @@
 const heroes = [
     // Assassin
     'Aamon', 'Benedetta', 'Fanny', 'Gusion', 'Hayabusa', 'Helcurt', 'Karina', 'Lancelot',
-    'Ling', 'Natalia', 'Nolan', 'Selina', 'Yi Sun-shin', 'Joy', 'Hanzo', 'Saber',
+    'Ling', 'Natalia', 'Nolan', 'Selena', 'Yi Sun-shin', 'Joy', 'Hanzo', 'Saber',
     // Fighter
     'Aldous', 'Alpha', 'Alucard', 'Arlott', 'Badang', 'Balmond', 'Bane', 'Chou', 'Cici',
     'Dyrroth', 'Freya', 'Guinevere', 'Hilda', 'Jawhead', 'Julian', 'Khaleed', 'Kaja',
